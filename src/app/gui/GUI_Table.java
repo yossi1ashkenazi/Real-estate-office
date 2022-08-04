@@ -67,7 +67,7 @@ public class GUI_Table {
 			JScrollPane sp=new JScrollPane(table);;
 			frame.add(sp);    
 	    
-			// Create a new dialog GUI with the frame and the table we just created
+			// Create a new dialog GUI with the frame and the table we just created.
 	    	MyDialog md = new MyDialog(frame,table);
 	    }
 		
