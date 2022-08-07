@@ -29,7 +29,7 @@ This function will give the user an option to search from the list of apartments
 <img src="readme_images/search.jpeg">
 
 <h3>Sort apartments</h3>
-The user can choose to sort his list of apartments, he has three options to sort. The first is sorting by price, the second option is sorting by customer name and the third option is by the ID of the apartments.
+The user can choose to sort his list of apartments, he has three options to sort. The first is sorting by price, the second option is sorting by customer name and the third option is by the ID of the apartments .
 <ul>
   <li>Sort by Price</li>
   <li>Sort by Client Names</li>
