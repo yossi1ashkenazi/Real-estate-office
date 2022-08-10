@@ -3,7 +3,7 @@ A personal project I created, I built a desktop application for a system for man
 <h3>Main menu</h3>
 The first munu that pop when you open the application, Some of them will open submenus when selected, I will explain about those submenus later.
 <ul>
-  <li>Add new apartment</li>
+  <li>Add new apartment.</li>
   <li>Find appartment</li>
   <li>Show all apartments</li>
   <li>Sort apartments</li>
